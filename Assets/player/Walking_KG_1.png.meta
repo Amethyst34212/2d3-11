@@ -1,19 +1,28 @@
 fileFormatVersion: 2
-guid: a05a495053704174d952016d235f6367
+guid: 743b5496afd7783428a403f667807e83
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6220260897284899744
-    second: Dashing_KG_1_0
+      213: -8526924235537896037
+    second: Walking_KG_1_0
   - first:
-      213: 8766439274140364807
-    second: Dashing_KG_1_1
+      213: -7127673563720156795
+    second: Walking_KG_1_1
   - first:
-      213: 3465546602957786791
-    second: Dashing_KG_1_2
+      213: 5649021147266211616
+    second: Walking_KG_1_2
   - first:
-      213: 3800629555566062716
-    second: Dashing_KG_1_3
+      213: -4821684825124360125
+    second: Walking_KG_1_3
+  - first:
+      213: 6457927373338470402
+    second: Walking_KG_1_4
+  - first:
+      213: -8340497476409617238
+    second: Walking_KG_1_5
+  - first:
+      213: 4715443989489359142
+    second: Walking_KG_1_6
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -46,7 +55,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -122,13 +131,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Dashing_KG_1_0
+      name: Walking_KG_1_0
       rect:
         serializedVersion: 2
-        x: 16
+        x: 0
         y: 0
-        width: 52
-        height: 55
+        width: 100
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -137,20 +146,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0a34be8645ec25650800000000000000
-      internalID: 6220260897284899744
+      spriteID: b9d281ad5974aa980800000000000000
+      internalID: -8526924235537896037
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dashing_KG_1_1
+      name: Walking_KG_1_1
       rect:
         serializedVersion: 2
-        x: 119
+        x: 100
         y: 0
-        width: 51
-        height: 54
+        width: 100
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -159,20 +168,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7007b20c216a8a970800000000000000
-      internalID: 8766439274140364807
+      spriteID: 589748768aa651d90800000000000000
+      internalID: -7127673563720156795
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dashing_KG_1_2
+      name: Walking_KG_1_2
       rect:
         serializedVersion: 2
-        x: 205
+        x: 200
         y: 0
-        width: 61
-        height: 59
+        width: 100
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -181,20 +190,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7ae4cdd2648181030800000000000000
-      internalID: 3465546602957786791
+      spriteID: 02fd87bbdca556e40800000000000000
+      internalID: 5649021147266211616
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dashing_KG_1_3
+      name: Walking_KG_1_3
       rect:
         serializedVersion: 2
-        x: 309
+        x: 300
         y: 0
-        width: 61
-        height: 57
+        width: 100
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -203,8 +212,74 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c7cad56b17c8eb430800000000000000
-      internalID: 3800629555566062716
+      spriteID: 340329ba23fe51db0800000000000000
+      internalID: -4821684825124360125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking_KG_1_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2086c110bba2f9950800000000000000
+      internalID: 6457927373338470402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking_KG_1_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa4109c2cb9904c80800000000000000
+      internalID: -8340497476409617238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking_KG_1_6
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62993cf235f907140800000000000000
+      internalID: 4715443989489359142
       vertices: []
       indices: 
       edges: []
@@ -213,7 +288,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 83319963693e85a4ba6cf35fc70e583e
     internalID: 0
     vertices: []
     indices: 
@@ -221,12 +296,17 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":7.0,"y":1.0},"gridSpriteSize":{"x":100.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      Dashing_KG_1_0: 6220260897284899744
-      Dashing_KG_1_1: 8766439274140364807
-      Dashing_KG_1_2: 3465546602957786791
-      Dashing_KG_1_3: 3800629555566062716
+      Walking_KG_1_0: -8526924235537896037
+      Walking_KG_1_1: -7127673563720156795
+      Walking_KG_1_2: 5649021147266211616
+      Walking_KG_1_3: -4821684825124360125
+      Walking_KG_1_4: 6457927373338470402
+      Walking_KG_1_5: -8340497476409617238
+      Walking_KG_1_6: 4715443989489359142
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
